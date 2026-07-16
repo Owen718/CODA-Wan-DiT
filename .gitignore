@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+results/*
+*.json
+*.nsys-rep
+*.sqlite
+*.log
+.DS_Store
+quack_cache/
+.venv/
+
+!results/full-video/
+!results/full-video/**
+results/full-video/raw/
